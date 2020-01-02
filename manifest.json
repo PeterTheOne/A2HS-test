@@ -6,8 +6,8 @@
   "background_color": "blue",
   "icons": [
     {
-      "src": "/A2HS-test/icon2.png",
-      "sizes": "1024x680",
+      "src": "/A2HS-test/icon3.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ]

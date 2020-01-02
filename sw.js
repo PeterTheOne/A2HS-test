@@ -1,7 +1,7 @@
-var CACHE_NAME = 'my-site-cache-v2';
+var CACHE_NAME = 'my-site-cache-v1';
 var urlsToCache = [
   '/A2HS-test/',
-  '/A2HS-test/icon2.png',
+  '/A2HS-test/icon3.png',
 ];
 
 self.addEventListener('install', function(event) {
