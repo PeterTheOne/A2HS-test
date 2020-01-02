@@ -10,5 +10,15 @@
   </head>
   <body>
     <h1>A2HS-test</h1>
+
+    <p id="msg">
+
+    </p>
   </body>
+
+  <script>
+    window.addEventListener('beforeinstallprompt', (e) => {
+      document.getElementById('msg').textContent = 'beforeinstallprompt';
+    });
+  </script>
 </html>
