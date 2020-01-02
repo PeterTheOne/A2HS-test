@@ -2,7 +2,7 @@
   "name": "A2HS-test",
   "short_name": "A2HS-test",
   "display": "standalone",
-  "start_url": "index.html",
+  "start_url": "/A2HS-test/index.html",
   "background_color": "blue",
   "icons": [
     {
