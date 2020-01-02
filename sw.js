@@ -1,6 +1,9 @@
 var CACHE_NAME = 'my-site-cache-v1';
 var urlsToCache = [
-  '/',
+  '/A2HS-test/',
+  '/A2HS-test/icon.png',
+  '/A2HS-test/icon2.png',
+  '/A2HS-test/icon.svg',
 ];
 
 self.addEventListener('install', function(event) {
